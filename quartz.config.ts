@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "umami",
-      host: "cloud.umami.is",
+      host: "https://cloud.umami.is",
       websiteId: "bc208244-2a61-4edd-b30b-b9c8a942f00c",
     },
     locale: "en-US",
